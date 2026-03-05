@@ -1,1 +1,10 @@
-# IS436-FLUENT-
+# IS436-FLUENT
+- Pahal
+- Noor
+- Coco
+- Rithik
+- Christian
+
+Objective: FLUENT is a web-based language learning and progress tracking platform that is designed
+to support introductory conversational language practice across multiple languages, such
+as Italian, Urdu, Tagalog, Chinese, Hindi, Spanish, Gujarati, Nepali, and English
