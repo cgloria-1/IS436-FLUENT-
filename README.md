@@ -1,4 +1,4 @@
-# IS436-FLUENT-IS 436 Group Project -- FLUENT --.
+# IS436-FLUENT
 Team Members: 
 - Pahal
 - Noor
