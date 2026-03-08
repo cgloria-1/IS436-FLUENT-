@@ -1,4 +1,4 @@
-# IS436 Group Work: foosball.com
+# IS436 Challenge Group Task 1
 Team Members:
 - Pahal
 - Noor
